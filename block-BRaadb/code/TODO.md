@@ -12,6 +12,7 @@ To ren this app you need to do the following
 
 ## Refact to use Higher Order Component
 
+
 - In this app there are three pages `Articles`, `People` and `Books`
 - All three pages contains list of articles, people and books along with a search functionality
 - If you look closely you will understand the behaviour of search function is same in all three pages
