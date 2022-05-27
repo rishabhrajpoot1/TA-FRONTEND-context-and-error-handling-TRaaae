@@ -1,3 +1,4 @@
+import ModeContext from "../ModeContext";
 function Card({ isDarkMode }) {
   return (
     <div className="card_item">

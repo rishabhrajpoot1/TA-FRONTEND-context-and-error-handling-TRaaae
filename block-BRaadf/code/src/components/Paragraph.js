@@ -1,3 +1,4 @@
+import ModeContext from "../ModeContext";
 function Paragraph({ isDarkMode }) {
   return (
     <p className={`para ${isDarkMode ? "para-dark" : "para-light"}`}>

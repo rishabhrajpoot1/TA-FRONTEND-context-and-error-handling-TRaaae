@@ -1,4 +1,5 @@
 import React from "react";
+import ModeContext from "../ModeContext";
 
 export default function SwitchButton({ isDarkMode, changeMode }) {
   return (

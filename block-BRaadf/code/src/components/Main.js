@@ -2,6 +2,7 @@ import Banner from "./Banner";
 import Cards from "./Cards";
 import Paragraph from "./Paragraph";
 import Title from "./Title";
+import ModeContext from "../ModeContext";
 
 function Main({ isDarkMode }) {
   return (

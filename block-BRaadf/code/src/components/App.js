@@ -2,6 +2,7 @@ import React from "react";
 import SwitchButton from "./Button";
 import Header from "./Header";
 import Main from "./Main";
+import ModeContext from "../ModeContext";
 
 class App extends React.Component {
   state = {

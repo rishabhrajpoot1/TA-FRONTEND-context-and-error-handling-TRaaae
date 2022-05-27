@@ -1,3 +1,4 @@
+import ModeContext from "../ModeContext";
 function Header({ isDarkMode }) {
   return (
     <h1 className={`heading ${isDarkMode ? "heading-dark" : "heading-light"}`}>

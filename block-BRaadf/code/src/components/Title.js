@@ -1,3 +1,4 @@
+import ModeContext from "../ModeContext";
 function Title({ text, isDarkMode }) {
   return (
     <h2

@@ -1,4 +1,5 @@
 import React from "react";
+import ModeContext from "../ModeContext";
 
 class Banner extends React.Component {
   render() {
